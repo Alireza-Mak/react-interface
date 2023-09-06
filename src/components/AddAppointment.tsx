@@ -24,7 +24,7 @@ const AddAppointment = ({ onAddApp, lastId }: Props) => {
       !ownerName.value ||
       !petName.value ||
       !aptDate.value ||
-      !aptDate.value ||
+      !aptTime.value ||
       !aptNotes.value
     ) {
       setError('Please fill out all fields.');
