@@ -1,46 +1,91 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Hi, I'm Alireza! 👋
 
-## Available Scripts
 
-In the project directory, you can run:
+## 🚀 About Me
+I'm a front end developer with 3 year exprience...
 
-### `npm start`
+# About the Project: React TypeScript interface
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This React-TS interface project is designed to provide users with a robust and intuitive appointment management system. It enables users to search and filter appointments based on various appointment fields, ensuring they can quickly find the information they need. The TypeScript integration adds an extra layer of type safety and reliability to the development process, making it easier to catch and prevent errors during coding.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+One of the key strengths of this project is its utilization of React's powerful features, including components, useState, useEffect hooks, and event listeners. These tools create a dynamic and responsive user interface, ensuring a seamless user experience when interacting with the appointments.
 
-### `npm test`
+Furthermore, the project prioritizes aesthetics and user experience by incorporating Tailwind CSS for styling. The integration of Tailwind into the webpack configuration streamlines the styling process, resulting in a modern and visually appealing interface. Overall, this project merges the best of React, TypeScript, and Tailwind CSS to deliver an efficient, user-friendly, and visually attractive appointment management solution.
+## Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Client:** React, Typscript, Tailwind
 
-### `npm run build`
+**Server:** webpack (Node)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Database:Internal json file
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠 Skills
+React, Typescript, Javascript, HTML, CSS, Webpack...
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Support
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+For support, email Info@alirezamak.com.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Demo
 
-## Learn More
+https://alireza-mak.github.io/react-interface/
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Authors
+
+- [@Alireza-Mak](https://www.github.com/Alireza-Mak)
+
+## Color Reference
+
+| Color                            | Hex                                                                |
+| -----------------              | ------------------------------------------------------------------       |
+| Icons Color: | ![#F87171](https://via.placeholder.com/10/F87171?text=+) #F87171 |
+| Form Title Color: | ![#60A5FA](https://via.placeholder.com/10/60A5FA?text=+) #60A5FA |
+
+
+
+
+## Installation
+
+Install my-project:
+
+```bash
+  git clone https://github.com/Alireza-Mak/react-interface.git
+```
+```bash
+  cd react-interface
+```
+
+```bash
+  npm install
+```
+
+```bash
+  npm run start
+```
+
+
+    
+![Logo](https://alirezamak.com/wp-content/uploads/fav-icon-final-e1685159385524.png)
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alirezamak.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-mak/)
+[![twitter](https://img.shields.io/badge/email-1DA1F2?style=for-the-badge&logo=mail.Ru&logoColor=white)](info@alirezamak.com)
+
+
+## Screenshots
+
+![App Screenshot](http://alirezamak.com/wp-content/uploads/react-Interface-3-scaled.jpg)
+![App Screenshot](http://alirezamak.com/wp-content/uploads/react-Interface-1.png)
+![App Screenshot](http://alirezamak.com/wp-content/uploads/react-Interface-2-scaled.jpg)
+## Related
+
+Here is a related project:
+
+[Drag and Drop-intermediate](https://github.com/Alireza-Mak/reusable-components)
